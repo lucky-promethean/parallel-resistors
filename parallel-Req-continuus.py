@@ -18,4 +18,4 @@ while (inp == 1):
         print ("req= ", req)
         inp=int(input("press 1 for another comparison, >
 if (inp == 0):
-        print("to clear exit")
+        quit()
